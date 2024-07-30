@@ -1,1 +1,1 @@
-api_key = "lbc2Yj0xkMaz76NKcKpJtPq7Sio-rzbv2yM9Rub9M9LWVpmPB2qQaPZU7m4ZOKOr"
+api_key = "API-KEY"
